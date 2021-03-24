@@ -1,1 +1,2 @@
-git fetch command
+Changing Redme file for git pull concept
+
